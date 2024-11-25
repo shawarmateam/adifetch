@@ -3,7 +3,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <sys/utsname.h>
-#include "config.def.h"
+#include "config.h"
 
 #define RESET "\033[0m"
 
