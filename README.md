@@ -15,8 +15,8 @@ Example of default fetch:
 
 ### Recomended
 
->![WARNING]
->adkPKG in beta-test.
+> [!WARNING]
+> adkPKG in beta-test.
 
 1. `adkpkg get -g adifetch`.
 2. `cp $(ADIFETCH_P)/src/config.def.h $(ADIFETCH_P)/src/config.h`.
