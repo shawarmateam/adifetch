@@ -1,5 +1,5 @@
 #ifndef CONFIG_H
-#define CONFIG
+#define CONFIG_H
 
 #define BLUE "\033[34m"
 #define YELLOW "\033[1;33m"
